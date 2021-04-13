@@ -1,2 +1,2 @@
 # Brownian-Motion
-Code for simulation brownian motion
+Code for simulating 1d and 2d Brownian motion
